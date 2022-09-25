@@ -2,6 +2,8 @@
 
 "Cherry Record" is the app that everyone can record their own archievements. 
 
+SSU Media "Mobile Programming" 2022 1 Semester.
+
 ## Getting Started
 
 I used Flutter and Android Studio. So you have to download those two applications and my github code.
